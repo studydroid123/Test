@@ -9,6 +9,5 @@ public class Main {
 //         6. Добавляем файл на удаленный репозиторий командой git remote add Homework6 https://github.com/studydroid123/Test.git
 //         7. Выгружаем основной файл git push -u Homework6 master
 //         8. Проверяем все ли записалось на странице github
-//         9.
     }
 }
